@@ -1,6 +1,6 @@
 name: Payper
 favicon: null
-layout_spectrum: 0.27084744768217206
+layout_spectrum: 0.24321
 typography_spectrum: 0.5081727630458772
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.26155993063002825
-  lightness: 0.9025987801142037
+    - '#ffffff'
+    - '#00683f'
+    - '#000000'
+    - '#478e71'
+    - '#87b7a3'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.7316191459540278
   rhythmicContrast: 0.23356875218451023
 purpose: []
